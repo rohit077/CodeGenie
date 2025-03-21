@@ -75,7 +75,7 @@ langchain-core==0.2.28
 langchain-text-splitters==0.2.2
 langsmith==0.1.98
 llama-cloud==0.0.12
-llama-index==0.10.61
+llama-index==0.12.4
 llama-index-agent-openai==0.2.9
 llama-index-cli==0.1.13
 llama-index-core==0.10.61
